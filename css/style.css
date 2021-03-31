@@ -60,7 +60,7 @@
         background-size: 120%;
     }
     .section04{
-        height: 2065px;
+        height: 2057px;
         background-size: 119%;
     }
     .section05{
@@ -90,7 +90,7 @@
         height: 841px;    
     }
     .section04{
-        height: 1549px;
+        height: 1544px;
     }
     .section05{
         height: 591px;
@@ -112,7 +112,7 @@
         height: 592px;    
     }
     .section04{
-        height: 1091px;
+        height: 1087px;
     }
     .section05{
         height: 414px;
@@ -125,7 +125,7 @@
 }
 @media(max-width: 376px){
     .section01{
-        height: 542px;    
+        height: 541px;    
     }
     .section02{
         height: 334px;   
@@ -134,10 +134,10 @@
         height: 413px;    
     }
     .section04{
-        height: 760px;
+        height: 756px;
     }
     .section05{
-        height:326px;
+        height:288px;
     }
     .video{
         left: 9.6%;
@@ -156,7 +156,7 @@
         height: 353px;    
     }
     .section04{
-        height: 648px;
+        height: 646px;
     }
     .section05{
         height:245px;
